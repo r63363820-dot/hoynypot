@@ -47,3 +47,4 @@ FREE VERSION DOES NOT HAVE:
 - Shodan
 - MITRE
 - Docker
+by: Mirnov is a cybersecurity engineer t.me/xoxuzo
