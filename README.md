@@ -48,3 +48,4 @@ FREE VERSION DOES NOT HAVE:
 - MITRE
 - Docker
 by: Mirnov is a cybersecurity engineer t.me/xoxuzo
+:D
